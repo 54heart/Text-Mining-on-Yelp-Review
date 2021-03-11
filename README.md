@@ -1,4 +1,4 @@
-# Text-Mining-on-Yelp-Review
+# Text Mining on Yelp Reviews
 
 ### Backgroud and questions of interests:
 Restaurants are essential in people's lives and most of us have experience of rating and writing reviews for a restaurant. The goal of this project is to perform data analysis on the Yelp restaurant dataset, which consists of customer review texts, restaurant rankings, location information, etc. from a variety of restaurants.
